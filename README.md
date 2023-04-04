@@ -5,7 +5,8 @@ I'm a student at Dnipro University of Technology, Ukraine. My major is Computer 
 
 My main focus, though, is on Unity and C#. 
 
-⚡ I am currently working on [PlanetArcade](https://github.com/Hllib/PlanetArcade.git), my personal game made with Unity.  
+⚡ Check out this Unity project I recently released : [PlanetArcade](https://github.com/Hllib/PlanetArcade.git) <br><br>
+Also, I am currently working on [TypingGame](https://github.com/Hllib/TypingGame.git) project, a typing game made with Unity.  
   
 
 ## Languages and Tools  
