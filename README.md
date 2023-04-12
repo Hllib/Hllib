@@ -5,10 +5,10 @@ I'm a student at Dnipro University of Technology, Ukraine. My major is Computer 
 
 My main focus, though, is on Unity and C#. 
 
-⚡ Check out this Unity project I have recently released : [PlanetArcade](https://github.com/Hllib/PlanetArcade.git) <br><br>
-Also, I am currently working on [TypingGame](https://github.com/Hllib/TypingGame.git) project, a typing game made with Unity.  
+⚡ Check out these Unity projects I made myself: 
+- [PlanetArcade](https://github.com/Hllib/PlanetArcade.git) 
+- [TypingRace](https://github.com/Hllib/TypingGame.git)   
   
-
 ## Languages and Tools  
 <div align="left">  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
