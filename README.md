@@ -8,6 +8,7 @@ My main focus, though, is on Unity and C#.
 ⚡ Check out these Unity projects I made myself: 
 - [PlanetArcade](https://github.com/Hllib/PlanetArcade.git) 
 - [TypingRace](https://github.com/Hllib/TypingGame.git)   
+- [UndeadSurvivor](https://github.com/Hllib/UndeadSurvivor.git)
   
 ## Languages and Tools  
 <div align="left">  
