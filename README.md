@@ -1,15 +1,9 @@
 ## Hi, I'm Hlib!👋  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hlib-monastyrov-a61b24251/)
 
-I'm a student at Dnipro University of Technology, Ukraine. My major is Computer Science. Apart from the languages and tools mentioned below, I actively learn a variety of technologies, such as Oracle,  PostgreSQL, Java, TypeScript, PHP.
+- Unity/C# Developer at BG-Games, Ukraine. 
+- Dnipro University of Technology, Ukraine. 
 
-My main focus, though, is on Unity and C#. 
-
-⚡ Check out these Unity projects I made myself: 
-- [PlanetArcade](https://github.com/Hllib/PlanetArcade.git) 
-- [TypingRace](https://github.com/Hllib/TypingGame.git)   
-- [UndeadSurvivor](https://github.com/Hllib/UndeadSurvivor.git)
-  
 ## Languages and Tools  
 <div align="left">  
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
