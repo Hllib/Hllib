@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-🔭 **Profession:** Game Developer, Unity Developer.
+🔭 **Profession:** Game Developer, Middle Unity Developer at [Vira Games](https://www.vira.games/).
 
 🎓 **Education:** 
 - Bachelor's degree in Computer Science, GPA: 98/100. Dnipro University of Technology, 2021-2025.
